@@ -1,0 +1,52 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\Debug\AV1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AV1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AV1.map</FILE>
+  <FILE>AV1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>22</LINE></start>
+  <inter1><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>84</LINE></inter1>
+  <inter2><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>95</LINE></inter2>
+  <lcd_command><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>255</LINE></lcd_command>
+  <main><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>51</LINE></main>
+  <decr_timer><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>67</LINE></decr_timer>
+  <timer><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>106</LINE></timer>
+  <lcd_print><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>170</LINE></lcd_print>
+  <delay><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>276</LINE></delay>
+  <timer_dec><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>139</LINE></timer_dec>
+  <delay_1ms><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>263</LINE></delay_1ms>
+  <inter_cp1><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>91</LINE></inter_cp1>
+  <inter_cp2><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>102</LINE></inter_cp2>
+  <timer_M><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>116</LINE></timer_M>
+  <timer_H><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>125</LINE></timer_H>
+  <zero_H><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>134</LINE></zero_H>
+  <timer_m_dec><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>147</LINE></timer_m_dec>
+  <timer_h_dec><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>156</LINE></timer_h_dec>
+  <turn_h><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>165</LINE></turn_h>
+  <print_ms><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>198</LINE></print_ms>
+  <sub_timer><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>225</LINE></sub_timer>
+  <send_n_ascii><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>238</LINE></send_n_ascii>
+  <lcd_Data><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>245</LINE></lcd_Data>
+  <sub_timer_high><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>232</LINE></sub_timer_high>
+  <L1><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>268</LINE></L1>
+  <L2><FILE>C:\Users\Christian\Documents\Atmel Studio\7.0\AV1\AV1\main.asm</FILE><LINE>282</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
