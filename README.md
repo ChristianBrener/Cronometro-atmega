@@ -10,5 +10,5 @@
 
 ![](Image/Proteus%20destribuição.jpg)
 
-Botão 1: Incrementar ou decrementa quando apertado
+Botão 1: Incrementar ou decrementa quando apertado</br>
 Botão 2: Mostrar minutos e segundos ou horas e minutos quando apertado
