@@ -1,10 +1,11 @@
 # Cronometro-atmega
-Utilizado:
-1 - Atmega328p
-2 - Botões
-1 - LCD (LM016L)
-1 - Trimmer(3214G-1-103E)
-
-Destribuição no atmega:
+<h1>Utilizado:</h1>
+<ul>
+<li> 1 - Atmega328p </li>
+<li> 2 - Botões</li>
+<li> 1 - LCD (LM016L)</li>
+<li> 1 - Trimmer(3214G-1-103E)</li>
+</ul>
+<h1>Destribuição no atmega:</h1>
 
 ![](Image/Proteus%20destribuição.jpg)
